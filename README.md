@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Kiran Uppalapati 👋
 
-I'm a **Backend Developer** with a passion for building robust and scalable applications. With over **2 years of professional experience**, I have honed my skills in various technologies, making me well-equipped to tackle diverse challenges in software development.
+I'm a **Backend Developer** with a passion for building robust and scalable applications. With over **1.5 years of professional experience**, I have honed my skills in various technologies, making me well-equipped to tackle diverse challenges in software development.
 
 ## 🌱 Skills
 
