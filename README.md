@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @USK0318
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Sai Kiran Uppalapati 👋
 
-<!---
-USK0318/USK0318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Backend Developer** with a passion for building robust and scalable applications. With over **2 years of professional experience**, I have honed my skills in various technologies, making me well-equipped to tackle diverse challenges in software development.
+
+## 🌱 Skills
+
+- **Backend Technologies:**
+  - Python
+  - Django
+  - Node.js
+  - Express 
+
+- **Databases:**
+  - MySQL
+  - MongoDB
+
+- **Frontend Technologies:**
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
+  - hbs for admin panal
+
+## 💼 Professional Experience
+
+I have experience working on multiple projects, where I have successfully contributed to the design, development, and deployment of web applications. My expertise includes:
+
+- Designing and implementing RESTful APIs
+- Building user-friendly interfaces with React.js
+- Working with databases to manage and manipulate data effectively
+
+
+## 📫 Get in Touch
+
+Feel free to reach out to me if you have any questions or want to collaborate on a project!
+
+- [LinkedIn](https://www.linkedin.com/in/uppalapatisaikiran/)
+- [Email](saikiranuppalapati2@gmail.com)
+
+Thanks for visiting my profile! 🚀
