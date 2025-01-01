@@ -4,7 +4,7 @@ I'm a **Backend Developer** with a passion for building robust and scalable appl
 
 ## 🌱 Skills  
 
-- **Backend Technologies:** Python | Django | Node.js | Express  
+- **Backend Technologies:**   Python   |   Django   |   Node.js   |   Express  
 - **Databases:** MySQL | MongoDB  
 - **Frontend Technologies:** HTML | CSS | JavaScript | React.js | hbs for admin panel  
 
